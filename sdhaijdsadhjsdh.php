@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "hello wordl";\
+echo "hello wordl";
 
 
 
