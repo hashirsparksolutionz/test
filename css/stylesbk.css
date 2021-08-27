@@ -1,0 +1,64 @@
+body{margin:0; padding:0;}
+#wrapper{width:960px; height:1400px; margin: 0 auto; background-color:#dfeaf7 }
+#header{width:854px; height:auto;}
+#content{width:960px; height:auto; background:#ffffff}
+.logo{width:188px; height:61px; background-image: url(../images/logo.png); margin-top:39px; margin-left:60px; float:left}
+.text-items{color:#0000;font-family:Arial, Helvetica, sans-serif;font-size:10px; margin-top:39px; float: left; margin-left:550px }
+.shape-cart{width:28px; height:27px; background-image:url(../images/cart.png); margin-left:60px}
+.navigation{width:850px; height:46px; background-image: url(../images/navigation.png); border-radius:3px; margin-top:39px; float:left; margin-left:60px}
+.top-ul{padding:5px; margin-top:8px;}
+.top-li{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; display:inline; padding:15px;border-right: 1px solid white;}
+.top-a{color:#fff; text-decoration:none;}
+.top-a:hover{color:#aed4f6;}
+.slider{width:850px; height:378px; background-image: url(../images/slider.png);float:left; margin-left:60px; margin-top:10px}
+.left-col{width:561px; height:auto; background-color:# 0F0;float:left; margin-top:26px; margin-left:60px}
+.right-col{width:288px; height:auto; background-color:# 0F0;float:left; margin-left:28px; margin-top:26px;}
+
+.shape-featured{width:561px; height:38px; background-image:url(../images/navigation.png); border-radius:3px}
+
+.left-shape1{width:178px; height:288px; background-color:#fff; border:1px solid #CCC; float:left; margin-top:2px}
+.left-shape2{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px;margin-top:2px}
+.left-shape3{width:178px; height:288px; background-color:#fff; border:1px solid #CCC; float:left; margin-left:10px;margin-top:2px}
+.left-shape4{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-top:20px;}
+.left-shape5{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px; margin-top:20px}
+.left-shape6{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px; margin-top:20px}
+
+.img1-laptop{width:129px; height:166px; background-image: url(../images/idlock.png);  margin-top:22px; margin-left:27px}
+.img2-laptop{width:129px; height:166px; background-image: url(../images/psd-credit-card.jpg);  margin-top:22px; margin-left:27px}
+.img3-laptop{width:129px; height:166px; background-image: url(../images/facebook-credit-card.png);  margin-top:22px; margin-left:27px}
+.img4-laptop{width:129px; height:166px; background-image: url(../images/credit_cards.png);  margin-top:22px; margin-left:27px}
+.img5-laptop{width:129px; height:166px; background-image: url(../images/credit-cards.png);  margin-top:22px; margin-left:27px}
+.img6-laptop{width:129px; height:166px; background-image: url(../images/images.jpg);  margin-top:22px; margin-left:27px}
+.text1-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text2-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text3-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text4-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text5-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text6-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text1-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text2-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text3-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text4-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text5-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text6-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.shape-btn1{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn2{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn3{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn4{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn5{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn6{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.text1-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text2-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text3-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text4-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text5-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text6-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.right-shape{width:260px; height:38px; background-image:url(../images/navigation.png); border-top-left-radius:3px; border-top-right-radius:3px}
+.text1-product{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:7px; margin-left:15px; float:left}
+.right-shape2{width:258px; height:599px; background-color:#fff; float:left;border:1px solid #CCC;}
+.left-ul{ padding-top:15px; margin:0; padding-left:20px}
+.left-li{font-family:Arial, Helvetica, sans-serif; font-size:14px; list-style:none; border-bottom:1px  dashed; width:180px; height:25px; margin-left:1px;}
+.left-a{color:#000; text-decoration:none;}
+.footer{width:auto; height:124px; margin-top:30px}
+.footer-text{color:#0000;font-family:Arial, Helvetica, sans-serif;font-size:14px; margin-top:45px; margin-left:310px }
+.text-haead{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:10px; margin-left:15px; float:left}

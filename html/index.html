@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="images/fav-icon.png" rel="shortcut-icon" type="text/css">
+	<link href="css/material-design-iconic-font.min.css" rel="stylesheet" type="text/css">
+<link href="css/material-design-iconic-font.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+	
+
+<title>Pickyourtrip.com</title>
+	
+</head>
+<style>
+
+</style>
+<body>
+
+
+<div class="container-fluid">
+<div class="white-box-outer">
+<div class="white-box-content">
+<div class="img-outer"><img src="images/hotel-stay.jpg" class="img-responsive"></div>
+<p class="note">please enter your voucher code to pick your trip</p>
+<form class="form-outer">
+<div class="input-outer">
+<input type="text" name="voucher-number">
+<button type="submit" class="sub-btn">SUBMIT</button>
+</div>
+</form>
+<p class="info-note">Once you register your voucher number your travel request forms will be mailed to you</p>
+<div class="footer-img">
+<div class="row">
+
+<div class="col-md-offset-1 col-md-5 col-sm-offset-1 col-sm-5 col-xs-offset-1 col-xs-5 ">
+<img src="images/bed-room.jpg" class="img-responsive">
+
+</div>
+<div class="col-md-5 col-sm-5 col-xs-5">
+<img src="images/hotel.jpg" class="img-responsive">
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="footer-info">
+<ul class="info-list clearfix">
+<li><a href="tel:1-800-238-5659">1-800-238-5659</a> <span>ext. 2232</span></li>
+<li><a href="mailto:help@pick-your-trip.com">help@pick-your-trip.com</a></li>
+</ul>
+</div>
+</div>
+</div>    
+<div class="footer"><p>Copyright © Capitol Marketing Concepts - All Rights Reserved.</p></div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+
+<!--My Custom Jquery File-->
+
+<script>
+$(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.scrollup').click(function () {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+});
+</script>
+</body>
+</html>

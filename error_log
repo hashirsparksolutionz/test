@@ -1,0 +1,18 @@
+[05-Jul-2021 10:26:08 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:26:08 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:26:08 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:26:15 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:26:15 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:26:15 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): recursion detected in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9
+[05-Jul-2021 10:27:54 UTC] PHP Warning:  json_encode(): type is unsupported, encoded as null in /home/pickyourvacation/public_html/index.php on line 9

@@ -1,0 +1,10 @@
+*+html{overflow:auto;}
+#constuction-box,#intro-box,.cs-prev,.cs-next,.sf-menu ul{behavior:url(js/PIE.htc)}
+#text_slider div{background:none !important}
+#advanced ul li.trigger_adv > span,.list-2 li a>span,dl#accordion dt{behavior:url(js/PIE.htc);position:relative}
+.kwicks li{filter:alpha(opacity=50)}
+.kwicks li.active{filter:alpha(opacity=100)}
+#contact-form .error,#contact-form .empty{left:0;top:34px}
+#contact-form .message .error,#contact-form .message .empty{left:0;top:267px;}
+.cs-buttons a{margin:0 1px;height:13px;width:13px;background:url(../images/cs.png);border:none;}
+.cs-buttons a:hover,.cs-buttons a.cs-active{background:url(../images/cs-active.png)}

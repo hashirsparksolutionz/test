@@ -1,0 +1,67 @@
+#inquiries{
+border-collapse:collapse;
+}
+
+#inquiries td{
+width:90px;
+padding:3px;
+text-align:left;
+}
+
+#inquiries th{
+width:90px;
+padding:3px;
+font-weight:bold;
+text-align:left;
+}
+
+.header-cell{
+background: #f0f0f0;
+font-weight:bold;
+color:#14396A;
+}
+
+#inquiries .odd{
+background: #f5f5f5;
+}
+
+#inquiries .even{
+background: #ffffff;
+}
+
+#inquiries .sr{
+width:40px;
+font-weight:bold;
+padding-left:10px;
+}
+
+#inquiries .date{
+width:100px;
+}
+
+#inquiries .name{
+width:150px;
+}
+
+#inquiries .phone{
+width:150px;
+font-weight:bold;
+font-family:courier;
+}
+
+#inquiries .email{
+width:150px;
+}
+
+#inquiries .comment{
+color: #666666;
+font-size:12px;
+padding-bottom:5px;
+border-bottom:1px solid #444444;
+}
+
+#inquiries .status_img{
+padding-right:33px;
+padding-left:5px;
+}
+

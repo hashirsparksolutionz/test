@@ -1,0 +1,105 @@
+#slider1{
+	background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+    position: relative;
+    text-align: left;
+    width: 900px;
+	margin-top:20px;
+}
+
+#slider1 .viewport{
+	float: left;
+	width: 800px;
+	height: 200px;
+	overflow: hidden;
+	position: relative;
+}
+#slider1 .buttons{
+	background:url("buttons.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	margin: 50px 10px 0 0;
+	background-position: 0 -38px;
+	text-indent: -999em;
+	float: left;
+	width: 39px;
+	height: 37px;
+	overflow: hidden;
+	position: relative;
+}
+#slider1 .next{
+	background-position: 0 0;
+	margin: 50px 0 0 10px;
+}
+#slider1 .disable {
+	visibility: hidden;
+}
+#slider1 .overview {
+	list-style: none;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	width: 240px;
+	left: 0 top: 0;
+}
+#slider1 .overview li{
+	float: left;
+	padding: 1px;
+	height: 200px;
+	width: 197px;
+	margin-left:10px;
+}
+
+#slider2{
+	background: none repeat scroll 0 0 #FFFFFF;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+    position: relative;
+    text-align: left;
+    width: 900px;
+	margin-top:20px;
+}
+
+#slider2 .viewport{
+	float: left;
+	width: 800px;
+	height: 200px;
+	overflow: hidden;
+	position: relative;
+}
+#slider2 .buttons{
+	background:url("buttons.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	margin: 50px 10px 0 0;
+	background-position: 0 -38px;
+	text-indent: -999em;
+	float: left;
+	width: 39px;
+	height: 37px;
+	overflow: hidden;
+	position: relative;
+}
+#slider2 .next{
+	background-position: 0 0;
+	margin: 50px 0 0 10px;
+}
+#slider2 .disable {
+	visibility: hidden;
+}
+#slider2 .overview {
+	list-style: none;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	width: 240px;
+	left: 0 top: 0;
+}
+#slider2 .overview li{
+	float: left;
+	padding: 1px;
+	height: 200px;
+	width: 197px;
+	margin-left:10px;
+}

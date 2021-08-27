@@ -1,0 +1,12 @@
+.sf-menu{font-size:0;line-height:0;width:950px;margin:0 auto;}
+.sf-menu ul{position:absolute;top:-999px;min-width:94px;padding:7px 26px 16px;left:0;display:none;background:#f0eee3;box-shadow:0 0 5px rgba(0,0,0,.3);border-radius:5px;}
+.sf-menu li{position:relative;}
+.sf-menu>li{float:left;margin:0 15px 0 0}
+.sf-menu a{text-decoration:none;line-height:1.2em;white-space:nowrap;font-size:14px;}
+.sf-menu>li>a{text-align:center;color:#e3ddcf;display:block;width:87px;text-align:center;padding:7px 0 9px;}
+.sf-menu li.sfHover>ul{top:34px;z-index:99;}
+.sf-menu>li.current>a,.sf-menu>li.sfHover>a,.sf-menu>li:hover>a{background:url(../images/menu-hover.jpg)}
+.sf-menu li li>a{color:#473f3b;}
+.sf-menu li li.current>a,.sf-menu li li a:hover,.sf-menu li li.sfHover>a{color:#1f295d;}
+.sf-menu li li{padding:13px 0 0;}
+ul.sf-menu li li.sfHover>ul{left:100%;top:-7px;}

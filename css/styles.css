@@ -1,0 +1,230 @@
+body{margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+h1{
+	font-size:22px;
+	margin-bottom: 0px;
+	}
+p {
+    margin: 0px;
+    
+}body{margin:0; padding:0px;}
+table, th, td{ border:none; height:0px;}
+span{ background:none !important; font-size:12px;}
+#wrapper{background-color: #7ca2c7;width:960px; height:auto; margin: 0 auto; padding-right:5px; padding-left:5px;}
+#header{width:auto; height:auto;}
+#content{width:960px; height:auto; padding-bottom:20px;}
+.logo{width:200px; height:69px; background-image:url(../images/logo.png); margin-top:20px; float:left; margin-left:5px;}
+.text-items{color:#0000;font-family:Arial, Helvetica, sans-serif;font-size:10px; margin-top:39px; float: left; margin-left:550px }
+.shape-cart{width:28px; height:27px; background-image:url(../images/cart.png); margin-left:60px}
+.navigation{width:auto; height:46px; background-image: url(../images/navigation.png); border-radius:3px;}
+.top-ul{padding:15px; margin-top:8px;}
+.top-li{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; display:inline; padding:15px;border-right: 1px solid white;}
+.top-a{color:#fff; text-decoration:none;}
+.top-a:hover{color:#aed4f6;}
+.link-a{color:black; text-decoration:none;font-size: 12px;cursor: pointer; font-family:Arial, Helvetica, sans-serif;}
+.link-a:hover{color:#174267;}
+p{font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+li{font-family:Arial, Helvetica, sans-serif; font-size:12px}
+
+.slider{width:960px; /*height:378px; background-image: url(../images/slider.png);*/float:left;  margin-top:10px}
+.left-col{width:685px; height:auto; background-color:#FFF;float:left; margin-top:26px; padding:5px;}
+.right-col{width:260px; height:auto; background-color:# 0F0;float:right; margin-top:26px;}
+
+.shape-featured{width:auto; height:38px; background-image:url(../images/navigation.png); border-radius:3px}
+.left-shape1{width: 200px;
+height: 275px;
+padding:10px;
+background-color: #fff;
+border: 1px solid #CCC;
+float: left;
+margin-left: 0px;
+margin-top: 2px;}
+
+.Login-Div{
+width: 420px;
+padding:5px;
+background-color: #fff;
+border-radius:5px;
+height:auto;
+padding-top:10px;
+padding-bottom:10px;
+margin:0 auto;
+margin-top: 10px;
+margin-bottom:10px;
+}
+.register-Div{
+width: 420px;
+padding:5px;
+background-color: #fff;
+border: 1px solid #CCC;
+border-style:dotted;
+border-radius:5px;
+height:220px;
+margin:0 auto;
+margin-top: 10px;
+margin-bottom:10px;
+}
+.left-shape2{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px;margin-top:2px}
+.left-shape3{width:178px; height:288px; background-color:#fff; border:1px solid #CCC; float:left; margin-left:10px;margin-top:2px}
+.left-shape4{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-top:20px;}
+.left-shape5{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px; margin-top:20px}
+.left-shape6{width:178px; height:288px; background-color:#fff; border:1px solid #CCC;float:left; margin-left:10px; margin-top:20px}
+
+.img1-laptop{width:200px; height:166px;  }
+.img2-laptop{width:129px; height:166px; background-image: url(../images/psd-credit-card.jpg);  margin-top:22px; margin-left:27px}
+.img3-laptop{width:129px; height:166px; background-image: url(../images/facebook-credit-card.png);  margin-top:22px; margin-left:27px}
+.img4-laptop{width:129px; height:166px; background-image: url(../images/credit_cards.png);  margin-top:22px; margin-left:27px}
+.img5-laptop{width:129px; height:166px; background-image: url(../images/credit-cards.png);  margin-top:22px; margin-left:27px}
+.img6-laptop{width:129px; height:166px; background-image: url(../images/images.jpg);  margin-top:22px; margin-left:27px}
+.text1-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; }
+.text2-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text3-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text4-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text5-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text6-jang{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:5px; margin-left:25px}
+.text1-rate{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; }
+.text-text{font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.text2-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text3-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text4-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text5-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.text6-rate{color:#ff0000; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:5px; margin-left:25px}
+.shape-btn1{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn2{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn3{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn4{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn5{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.shape-btn6{width:105px; height:32px; background-image:url(../images/boton.png); border-radius:3px;pxmargin-top:5px; margin-left:25px}
+.text1-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text2-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text3-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text4-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text5-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.text6-addtocart{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:7px; margin-left:17px; float:left}
+.right-shape{width:260px; height:38px; background-image:url(../images/navigation.png); border-top-left-radius:3px; border-top-right-radius:3px}
+.text1-product{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:7px; margin-left:15px; float:left}
+.right-shape2{width:258px; /*height:225px;*/ height: auto; background-color:#fff; float:left;border:1px solid #CCC;padding-bottom:25px;}
+.left-ul{ padding-top:15px; margin:0; padding-left:10px}
+.left-li{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; border-bottom:1px  dashed; width:210px; margin-left:12px;margin-top: 10px; }
+.left-a{color:#000; text-decoration:none;}
+.footer{width:auto; height:40px; margin-top:30px;border-top: 1px solid;}
+.footer-text{ font-weight:bold;color:black; font-family:Arial, Helvetica, sans-serif;font-size:12px; margin-top:12px; text-align:center;}
+.text-1{color:#000; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.text-haead{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:10px; margin-left:15px; float:left}
+/* Login Page CSS */
+.text-haead{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:10px; margin-left:15px; float:left}
+.imagelogin{width:92px; height:129px; background-image: url(../images/loginimge.png);  margin-top:40px; margin-left:31px; float:left}
+.emailtext{color:#1a4e7b; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:67px; float:right}
+.paswardtext{color:#1a4e7b; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:22px; margin-left:82px; float:left}
+.box1{width:250px; height:28px; background-color: #fff;float:right;border:1px solid #000; margin-top:60px; float:left}
+.box2{width:250px; height:28px; background-color: #fff;float:right;border:1px solid #000; margin-top:11px; float:left}
+.forget{color:#0000; font-family:Arial, Helvetica, sans-serif; font-size:11px; margin-top:7px; float:left}
+.forget:hover{color:#194973;}
+.register{color:#0000; font-family:Arial, Helvetica, sans-serif; font-size:11px; margin-top:7px; float:right}
+.forget:hover{color:#194973;}
+.forget{cursor: hand; cursor: pointer;}
+.submitbtn{width:72px; height:40px; background-image: url(../images/boton%20dark%20blue.png); border-radius:3px;margin-top:25px; margin-right:18px; float:right}
+.login2{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:13px; margin-left:15px}textarea,
+.Login_Field{
+	font-size: 14px;
+color: #000;
+padding: 8px;
+width: 240px;
+border-radius: 3px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border: 1px solid #CCC;
+margin: 0px;
+	
+	}
+.btn{
+	border: none;
+	padding: 8px;
+	color: #fff;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+margin-top: 7px;
+
+float: left;
+width: 105px;
+height: 32px;
+background-image: url(../images/boton.png);
+border-radius: 3px;
+pxmargin-top: 5px;
+
+cursor: pointer;
+	
+	}
+	.btn-11{
+	border: none;
+	padding: 8px;
+	color: #fff;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+margin-top: 7px;
+
+width: 105px;
+height: 32px;
+background-image: url(../images/boton.png);
+border-radius: 3px;
+pxmargin-top: 5px;
+
+cursor: pointer;
+	
+	}
+.cont-a{color:#1e517d; font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; text-decoration:none;}
+.cont-aa{font-weight:bold; color:#702c8b; font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none;}
+.cont-aa:hover{color:#036}
+.cont-a:hover{color:#036}
+.header-text{font-family:Arial, Helvetica, sans-serif;font-size:12px; margin-top:18px;}
+	.btn-1{
+	border: none;
+	padding: 8px;
+	color: #fff;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+margin-top: 7px;
+float: left;
+width: 105px;
+height: 32px;
+background-image: url(../images/boton.png);
+border-radius: 3px;
+pxmargin-top: 5px;
+cursor: pointer;
+	
+	}
+.des-text{font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.des-h{width:auto; color:#333; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:40px;}
+.des-img-div{width:193px; height:144px; border-radius:5px; margin:0 auto; margin-top:
+                30px; background-color:#FFF; text-align:center;}
+.des-img-div-2{width:162px; height:130px; border:1px solid #666; border-style:dotted; border-radius:5px; margin-top:
+                20px; background-color:#FFF; text-align:center; margin-left:5px; float:left;}
+.des-wh-bg-div{background-color:#FFF; border:1px solid #CCC; padding:10px; margin-bottom:20px;}
+.inner-cont{width:auto; height:auto;}
+.des-img-div2{width:130px; margin:0 auto; text-align:center; padding:5px; }
+.des-price{float:right; width:77px; margin-top:-5px;}
+.des-btn-div{float:right; margin-right:5px;}
+.heading-aboutus{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#4c8cc5}
+.about-padding{padding:10px;}
+.textBox{width: 205px; height:23px;border-radius: 3px;border: 1px solid #999; padding-left:5px;}
+.textBox-2{width:110px; height:23px;border-radius: 3px;border: 1px solid #999; padding-left:5px;}
+.select-width{width:203px; border:none;}
+
+/*shoping cart details css*/
+.td-padding{padding-top:7px;}
+.shape-shopingcart{width:960px; height:37px; background-image: url(../images/boton%20dark%20blue.png); margin-top:54px}
+.shopingcarttext{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:18px; margin-top:10px; margin-left:15px; float:left}
+.top-ul2{padding:4px; margin-top:8px;}
+.top-li2{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; display:inline; padding:15px; white; float:right}
+.top-a2{color:#fff; text-decoration:none;}
+.top-a2:hover{color:#aed4f6;}
+.top-ul3{padding:4px; margin-top:8px;}
+.top-li3{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; display:list-item; padding:15px; white; float:right}
+.top-a3{color:#fff; text-decoration:none;}
+.top-a3:hover{color:#aed4f6;}
+.shape-featured2{width:auto; height:32px; background-image:url(../images/navigation.png); border-radius:3px}
+.shape-featured3{width:auto; height:32px; background-image:url(../images/navigation.png); border-radius:3px}
+.top-ul5{padding:0px; margin-top:2px;}
+.top-li5{font-family:Arial, Helvetica, sans-serif; font-size:12px; list-style:none; display:list-item; padding:15px; white; float:left}
+.top-a5{color:#fff; text-decoration:none;}
+.top-a5:hover{color:#aed4f6;}
+.text-haead{color:#fff; font-family:Arial, Helvetica, sans-serif; font-size:14px; margin-top:10px; margin-left:15px; float:left}

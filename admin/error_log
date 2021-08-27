@@ -1,0 +1,8 @@
+[02-Mar-2020 07:33:31 UCT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:33:31 UCT] PHP Notice:   in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:33:41 UCT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:33:41 UCT] PHP Notice:   in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:34:37 UCT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:34:37 UCT] PHP Notice:   in /home/selectgift/public_html/pickyour-vacations.com/includes/myconn.php on line 7
+[02-Mar-2020 07:34:37 UCT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/selectgift/public_html/pickyour-vacations.com/admin/login.php on line 23
+[02-Mar-2020 07:36:58 UCT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/selectgift/public_html/pickyour-vacations.com/admin/mod/footer.php on line 13

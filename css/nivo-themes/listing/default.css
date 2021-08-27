@@ -1,0 +1,85 @@
+/*
+Skin Name: Nivo Slider Default Theme
+Skin URI: http://nivo.dev7studios.com
+Skin Type: flexible
+Description: The default skin for the Nivo Slider.
+Version: 1.0
+Author: Gilbert Pellegrom
+Author URI: http://dev7studios.com
+*/
+
+.theme-listing{
+width:100%;
+height:100%;
+}
+
+.theme-listing .nivoSlider {
+	position:relative;
+	background:#fff url('loading.gif') no-repeat 50% 50%;
+	width:640px;
+	height:480px;
+	/*
+    -webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;
+    -moz-box-shadow: 0px 1px 5px 0px #4a4a4a;
+    box-shadow: 0px 1px 5px 0px #4a4a4a;
+	*/
+}
+.theme-listing .nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:none;
+}
+.theme-listing .nivoSlider a {
+	border:0;
+	display:block;
+}
+
+.theme-listing .nivo-controlNav {
+	position:absolute;
+	left:0%;
+	bottom:-5px;
+    margin-left:0px; /* Tweak this to center bullets */
+	width:100%;
+	text-align:center;
+}
+.theme-listing .nivo-controlNav a {
+	display:inline-block;
+	width:22px;
+	height:22px;
+	background:url(bullets.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+	margin-right:3px;
+	/* float:left; */
+}
+.theme-listing .nivo-controlNav a.active {
+	background-position:0 -22px;
+}
+
+.theme-listing .nivo-directionNav a {
+	display:block;
+	width:30px;
+	height:30px;
+	background:url(arrows.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+}
+.theme-listing a.nivo-nextNav {
+	background-position:-30px 0;
+	right:15px;
+}
+.theme-listing a.nivo-prevNav {
+	left:15px;
+}
+
+.theme-listing .nivo-caption {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.theme-listing .nivo-caption a {
+    color:#fff;
+    border-bottom:1px dotted #fff;
+}
+.theme-listing .nivo-caption a:hover {
+    color:#fff;
+}
