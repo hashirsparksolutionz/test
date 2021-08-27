@@ -1,0 +1,4 @@
+deployment:
+tasks:
+– export DEPLOYPATH=/home/asfgreatgiveback/public_html/test.asfgreatgiveback.biz
+– /bin/cp -r * $DEPLOYPATH

@@ -1,7 +1,7 @@
 <?php
 session_start();
 $path='test-logs';
-
+ 
 if(file_exists($path))
 	{
 	$myfile = fopen("test-logs/logs-" . date("Y-m-d h:i:sa"), "w");
