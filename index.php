@@ -1,5 +1,7 @@
 <?php
 session_start();
+
+echo "testing";
 $path='test-logs';
  
 if(file_exists($path))
